@@ -58,15 +58,15 @@
 ##### <img width="3%" title="GitHub" src="resourses/github.png"> [GitHub Pages](+++++)
 
 
-[//]: # (<!--Git Stats-->)
+<!--Git Stats-->
 
-[//]: # ()
-[//]: # (&#8287;&#8287;&#8287;&#8287;&#8287;)
 
-[//]: # (## :bar_chart:Git stats)
+&FFFFF;&#800000;&#8287;&#8287;&#8287;
 
-[//]: # (![]&#40;http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Margolog&theme=tokyonight&#41;)
+## :bar_chart:Git stats
 
-[//]: # (![]&#40;http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Margolog&theme=tokyonight&#41; )
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Margolog&theme=tokyonight)
 
-[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Margolog&theme=tokyonight&#41;)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Margolog&theme=tokyonight) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Margolog&theme=tokyonight)
