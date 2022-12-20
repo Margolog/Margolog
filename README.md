@@ -14,7 +14,7 @@
 
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/Margologu"><img width="32px" alt="Telegram" title="Telegram" src="images/social_networks/tg.png![tg.png](resourses%2Ftg.png)"/></a>
+  <a href="https://t.me/Margologu"><img width="32px" alt="Telegram" title="Telegram" src="resourses/tg.png"/></a>
   &#8287;
   <a href="https://www.linkedin.com/in/margarita-logunova-443045245/"><img width="32px" alt="Linkedin" title="IN" src="resourses/linkedin.png"/></a>
   &#8287
@@ -47,15 +47,15 @@
 
 ## :floppy_disk:Projects
 ### UI autotests
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/Margolog/diplom_UI)
+##### <img width="3%" title="GitHub" src="resourses/github.png"> [GitHub Pages](https://github.com/Margolog/diplom_UI)
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ### API autotests
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/Margolog/diplom_API)
+##### <img width="3%" title="GitHub" src="resourses/github.png"> [GitHub Pages](https://github.com/Margolog/diplom_API)
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ### Mobile autotests
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](+++++)
+##### <img width="3%" title="GitHub" src="resourses/github.png"> [GitHub Pages](+++++)
 
 
 <!--Git Stats-->
