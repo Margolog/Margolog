@@ -65,8 +65,6 @@
 
 ## :bar_chart:Git stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Margolog&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Margolog&theme=tokyonight) 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Margolog&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Margolog)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Margolog) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Margolog)
