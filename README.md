@@ -55,7 +55,7 @@
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ### Mobile autotests
-##### <img width="3%" title="GitHub" src="resourses/github.png"> [GitHub Pages](+++++)
+##### <img width="3%" title="GitHub" src="resourses/github.png"> [GitHub Pages](https://github.com/Margolog/diplom_mobail)
 
 
 <!--Git Stats-->
