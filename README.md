@@ -16,8 +16,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/Margologu"><img width="32px" alt="Telegram" title="Telegram" src="resourses/tg.png"/></a>
   &#8287;
-  <a href="https://www.linkedin.com/in/margarita-logunova-443045245/"><img width="32px" alt="Linkedin" title="IN" src="resourses/linkedin.png"/></a>
-  &#8287
 </p>
 
 
